@@ -1,6 +1,5 @@
 # django_mission_02-ahnjiseung
-
-> Basic Mission
+> ## Basic Mission
 1. 고객센터 앱과 FAQ 모델 만들기
 2. 고객센터 앱 생성 -> "support"
 3. FAQ 모델 생성
